@@ -18,7 +18,8 @@ python app.py
 to use this web app simply provide a website url you want to check as a parameter
 
 example:
-```localhost:5000/https://google.com/
 ```
-it'll then send a response in a json format, weather the url you provided contains Facebook pixel script in their body tag.
+localhost:5000/https://google.com/
+```
+it'll then send a response in a json format, weather the url you provided contains Facebook pixel script in their body tag or not.
 
